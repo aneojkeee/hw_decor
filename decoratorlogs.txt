@@ -1,0 +1,4 @@
+Дата/время: 2022-12-18 12:55:15.235095
+Имя функции: get_generator
+Аргументы: (('my_generator.txt',), {})
+Результат: <generator object get_generator at 0x10332a900>
